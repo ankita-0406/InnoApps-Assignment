@@ -9,7 +9,7 @@ import pinIcon from "../pics/pin.png";
 import igIcon from "../pics/ig.png";
 import inIcon from "../pics/in.png";
 import searchIcon from "../pics/search.png";
-import { Button } from 'react-bootstrap';
+
 
 class Images extends React.Component {
     constructor(props) {
